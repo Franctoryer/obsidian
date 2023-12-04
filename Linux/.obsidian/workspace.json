@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "e3fc022341288e85",
+    "type": "split",
+    "children": [
+      {
+        "id": "98344753abb73f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e08bd5933105030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常用命令.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f954f9834bb751d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f234151db399a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常用命令.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f1e956c80069caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac8e83c4b77eaafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5cdd30c30c8e55e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "362db9c8aae2d677",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39586b6cf404e126",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "1913630e01d591b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "acedb624d03aa7d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e59f75ba2fafc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "常用命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c5b5dac807b4a8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "常用命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2758c64e9571d56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f168b584da648c32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "常用命令.md"
+              }
+            }
+          },
+          {
+            "id": "39ddf1b3a8c8fa9c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afd1566fc3a213c1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "graph:Open graph view": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2f234151db399a6c",
+  "lastOpenFiles": [
+    "操作系统.md",
+    "Linux 目录结构.md",
+    "常用命令.md",
+    "英语/好词好句.md",
+    "当代英语小说阅读/The Swimmier.md",
+    "英语/六级单词.md",
+    "当代英语小说阅读/Proposal.md",
+    "数据结构/Vim快捷键.md",
+    "当代英语小说阅读/Snow White.md",
+    "概率论与数理统计/错题集.md",
+    "概率论与数理统计/二维连续型变量的联合密度和边缘密度函数.md",
+    "概率论与数理统计/复习知识点.md",
+    "计算机组成原理/提高访存速度的措施.md",
+    "概率论与数理统计/常用分布/连续型常用分布.md",
+    "概率论与数理统计/数字特征/协方差.md",
+    "计算机组成原理/字、字长、字节、位.md",
+    "Matlab与量化金融/Markov,Wiener,Ito.md",
+    "当代英语小说阅读/9-22.md",
+    "Matlab与量化金融/CAPM模型.md",
+    "Matlab与量化金融/option.md",
+    "Matlab与量化金融/二叉树期权定价法.md",
+    "计算机组成原理/汉明码.md",
+    "当代英语小说阅读/01_Love is a fallacy.md",
+    "当代英语小说阅读/02_Love is a fallacy.md",
+    "package-lock.json",
+    "计算思维与智能素养/Tableau的使用.md",
+    "数据结构/正则表达式.md",
+    "Untitled.canvas",
+    "Untitled",
+    "n",
+    "概率论与数理统计/常用分布",
+    "概率论与数理统计/数字特征",
+    "计算思维与智能素养",
+    "计算机组成原理/总线",
+    "其他",
+    "Excalidraw",
+    "计算机组成原理",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20230616211900.png",
+    "Pasted image 20230616211547.png",
+    "英语/联系.canvas"
+  ]
+}

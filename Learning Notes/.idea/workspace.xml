@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdcd24f0-fd22-4666-8619-1c08201dc8ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.obsidian.vimrc" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian.vimrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用连续型随机变量的分布.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/当代英语小说阅读/02_Love is a fallacy.md" beforeDir="false" afterPath="$PROJECT_DIR$/当代英语小说阅读/02_Love is a fallacy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/当代英语小说阅读/9$22.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/Makefile文件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/g++使用方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/概率论与数理统计/贝叶斯公式.md" beforeDir="false" afterPath="$PROJECT_DIR$/概率论与数理统计/贝叶斯公式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机组成原理/机器指令.md" beforeDir="false" afterPath="$PROJECT_DIR$/计算机组成原理/机器指令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeChat Applet/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WeChat Applet/.obsidian/graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeChat Applet/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WeChat Applet/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数模/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../数模/.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数模/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../数模/.obsidian/workspace.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2XjbJ3CcpAcgK7yL95xZMGcpAp9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Obsidian/WeChat Applet"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

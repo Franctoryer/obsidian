@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "97a3f0bee8c2d02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ceea955f01877f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c833fe3bf0bbfcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 模型/微分方程模型/传染病模型.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5433e9cb48864176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Matlab/精度调整.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8fd73f9d29547a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 模型/马尔可夫预测.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e72099a0f371a904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 模型/偏最小二乘回归分析（PLS）.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "262942253a4e26ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 数学基础/最小二乘法.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5718dfe004dd3a12",
+    "type": "split",
+    "children": [
+      {
+        "id": "26d227f38e0a9ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90e3864757a83b33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "468c0c1643075cf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad51a6577de84928",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3565738c595d775f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd92272183fad08",
+        "type": "tabs",
+        "dimension": 46.13095238095239,
+        "children": [
+          {
+            "id": "630770f415881b13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b6cbdd51ad2964c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 数学基础/最小二乘法.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43bb895bb31d69a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 数学基础/最小二乘法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63837bb2291b5b69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "556f083cd5dcfa2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 数学基础/最小二乘法.md"
+              }
+            }
+          },
+          {
+            "id": "c1fac49144905f73",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "28fcfb70eb5bfad1",
+        "type": "tabs",
+        "dimension": 53.86904761904761,
+        "children": [
+          {
+            "id": "3520f992ef96caa9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "262942253a4e26ef",
+  "lastOpenFiles": [
+    "0 模型/灰色关联度分析（GRA）.md",
+    "SortContents.md",
+    "0 模型/微分方程模型/传染病模型.md",
+    "0 模型/微分方程模型/常微分方程问题的数学模型.md",
+    "0 模型/国赛须知.md",
+    "0 模型/优化规划模型.md",
+    "1 数学基础/距离.md",
+    "2 Matlab/精度调整.md",
+    "0 模型/主成分分析（PCA）.md",
+    "0 模型/微分方程模型/人口模型.md",
+    "0 模型/博弈论模型.md",
+    "1 数学基础/协方差矩阵.md",
+    "0 模型/偏最小二乘回归分析（PLS）.md",
+    "0 模型/概率论模型.md",
+    "3 Python/Matplotlib库.md",
+    "3 Python/Scipy库.md",
+    "1 数学基础/数学期望.md",
+    "1 数学基础/最小二乘法.md",
+    "0 模型/模拟退火算法.md",
+    "0 模型/聚类分析/系统聚类.md",
+    "2 Matlab/实时脚本编译器.md",
+    "0 模型/灰色预测模型.md",
+    "赛前预备.md",
+    "0 模型/马尔可夫预测.md",
+    "0 模型/聚类分析/K-MEANS算法.md",
+    "2 Matlab/一些函数.md",
+    "0 模型/聚类分析",
+    "Python/Picture Asset/example7.png",
+    "1 数学基础",
+    "4 Excalidraw",
+    "Python/Picture Asset/example1.pdf",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph_wasm.wasm",
+    "lib/scripts/graph_wasm.js",
+    "lib/scripts/graph_view.js",
+    "lib/scripts/graph-render-worker.js",
+    "Pasted image 20230623140547.png"
+  ]
+}
