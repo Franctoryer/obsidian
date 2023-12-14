@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 数学基础/最小二乘法.md",
+                "file": "3 Python/numpy库.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 数学基础/最小二乘法.md",
+                "file": "3 Python/numpy库.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 数学基础/最小二乘法.md",
+                "file": "3 Python/numpy库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 数学基础/最小二乘法.md"
+                "file": "3 Python/numpy库.md"
               }
             }
           },
@@ -235,6 +235,7 @@
   },
   "active": "262942253a4e26ef",
   "lastOpenFiles": [
+    "1 数学基础/最小二乘法.md",
     "0 模型/灰色关联度分析（GRA）.md",
     "SortContents.md",
     "0 模型/微分方程模型/传染病模型.md",
@@ -252,7 +253,6 @@
     "3 Python/Matplotlib库.md",
     "3 Python/Scipy库.md",
     "1 数学基础/数学期望.md",
-    "1 数学基础/最小二乘法.md",
     "0 模型/模拟退火算法.md",
     "0 模型/聚类分析/系统聚类.md",
     "2 Matlab/实时脚本编译器.md",

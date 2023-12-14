@@ -258,6 +258,7 @@ Compound
 Command
 Correlation
 Causation
+Cache
 IR
 Interest
 If

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论与数理统计/错题集.md",
+                "file": "计算机组成原理/例题.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "1913630e01d591b5",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概率论与数理统计/错题集.md",
+                "file": "计算机组成原理/例题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概率论与数理统计/错题集.md"
+                "file": "计算机组成原理/例题.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "概率论与数理统计/错题集.md",
+                "file": "计算机组成原理/例题.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +170,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0666916394280272,
+                  "scale": 0.9936259399669355,
                   "close": true
                 }
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概率论与数理统计/错题集.md",
+                "file": "计算机组成原理/例题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,6 +230,25 @@
   },
   "active": "70ce14f6e1d718a2",
   "lastOpenFiles": [
+    "计算机组成原理/存储器/字扩展和位扩展.md",
+    "计算机组成原理/存储器/字、字长、字节、位.md",
+    "计算机组成原理/存储器/主存的技术指标.md",
+    "计算机组成原理/例题.md",
+    "计算机组成原理/存储器/存储器的层次结构.md",
+    "计算机组成原理/存储器/汉明码.md",
+    "计算机组成原理/存储器/提高访存速度的措施.md",
+    "计算机组成原理/存储器/高速缓存存储器.md",
+    "计算机组成原理/CPU",
+    "计算机组成原理/指令系统",
+    "计算机组成原理/计算器的运算",
+    "计算机组成原理/存储器",
+    "计算机组成原理/存储器/主存地址映射.md",
+    "计算机组成原理/存储器/替换策略.md",
+    "计算机组成原理/总线/总线通信控制.md",
+    "计算机组成原理/指令系统/操作命令的分析.md",
+    "数据结构/C++/C++11 新特性.md",
+    "概率论与数理统计/错题集.md",
+    "概率论与数理统计/复习知识点.md",
     "概率论与数理统计/概率论总结.md",
     "概率论与数理统计/独立性的定义.md",
     "概率论与数理统计/大数定律.md",
@@ -237,26 +256,11 @@
     "概率论与数理统计/概念的公理化性质.md",
     "概率论与数理统计/期望值的最值问题.md",
     "概率论与数理统计/最大值函数和最小值函数的概率分布.md",
-    "概率论与数理统计/错题集.md",
     "概率论与数理统计/二维连续型变量的联合密度和边缘密度函数.md",
     "概率论与数理统计/超几何分布.md",
     "概率论与数理统计/分布函数的四个性质.md",
     "概率论与数理统计/常用分布/离散型常用分布.md",
-    "概率论与数理统计/协方差和相关系数的定义.md",
-    "概率论与数理统计/数学期望和方差的定义.md",
-    "概率论与数理统计/数字特征/数学期望.md",
     "离散数学/Pasted image 20231204123856.png",
-    "概率论与数理统计/复习知识点.md",
-    "CONTENTS.md",
-    "概率论与数理统计/数字特征/方差.md",
-    "概率论与数理统计/数字特征/协方差.md",
-    "概率论与数理统计/第四章考点总结.md",
-    "概率论与数理统计/联合分布函数的四个性质.md",
-    "英语/六级单词.md",
-    "Excalidraw/Drawing 2023-11-04 19.06.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-04 19.00.25.excalidraw.md",
-    "概率论与数理统计/泊松分布（possion）.md",
-    "概率论与数理统计/二维离散型的联合概率分布.md",
     "package-lock.json",
     "Untitled.canvas",
     "Untitled",
@@ -264,10 +268,6 @@
     "概率论与数理统计/常用分布",
     "概率论与数理统计/数字特征",
     "计算思维与智能素养",
-    "计算机组成原理/总线",
-    "其他",
-    "Excalidraw",
-    "计算机组成原理",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
