@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3b1058f58c201b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概率论与数理统计/错题集.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "70ce14f6e1d718a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/例题.md",
-                "mode": "preview",
+                "file": "数据结构/线索化二叉树（中序遍历）.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/例题.md",
+                "file": "数据结构/线索化二叉树（中序遍历）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/例题.md"
+                "file": "数据结构/线索化二叉树（中序遍历）.md"
               }
             }
           },
@@ -147,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "计算机组成原理/例题.md",
+                "file": "数据结构/线索化二叉树（中序遍历）.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/例题.md",
+                "file": "数据结构/线索化二叉树（中序遍历）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,10 +216,15 @@
   },
   "active": "70ce14f6e1d718a2",
   "lastOpenFiles": [
+    "英语/好词好句.md",
+    "英语/六级单词.md",
+    "数据结构/三种遍历方式的实现.md",
+    "数据结构/线索化二叉树（中序遍历）.md",
+    "数据结构/正则表达式.md",
     "计算机组成原理/存储器/字扩展和位扩展.md",
+    "计算机组成原理/例题.md",
     "计算机组成原理/存储器/字、字长、字节、位.md",
     "计算机组成原理/存储器/主存的技术指标.md",
-    "计算机组成原理/例题.md",
     "计算机组成原理/存储器/存储器的层次结构.md",
     "计算机组成原理/存储器/汉明码.md",
     "计算机组成原理/存储器/提高访存速度的措施.md",
@@ -255,11 +246,6 @@
     "概率论与数理统计/随机变量的定义.md",
     "概率论与数理统计/概念的公理化性质.md",
     "概率论与数理统计/期望值的最值问题.md",
-    "概率论与数理统计/最大值函数和最小值函数的概率分布.md",
-    "概率论与数理统计/二维连续型变量的联合密度和边缘密度函数.md",
-    "概率论与数理统计/超几何分布.md",
-    "概率论与数理统计/分布函数的四个性质.md",
-    "概率论与数理统计/常用分布/离散型常用分布.md",
     "离散数学/Pasted image 20231204123856.png",
     "package-lock.json",
     "Untitled.canvas",
