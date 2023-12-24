@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 模型/微分方程模型/传染病模型.md",
+                "file": "2 Matlab/精度调整.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,15 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Python/numpy库.md",
-                "mode": "preview",
+                "file": "3 Python/Pandas库.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Python/numpy库.md",
+                "file": "2 Matlab/精度调整.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Python/numpy库.md",
+                "file": "2 Matlab/精度调整.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Python/numpy库.md"
+                "file": "2 Matlab/精度调整.md"
               }
             }
           },
@@ -233,12 +232,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "262942253a4e26ef",
+  "active": "c833fe3bf0bbfcf5",
   "lastOpenFiles": [
+    "3 Python/Matplotlib库.md",
+    "3 Python/Pandas库.md",
+    "3 Python/numpy库.md",
+    "0 模型/微分方程模型/传染病模型.md",
     "1 数学基础/最小二乘法.md",
     "0 模型/灰色关联度分析（GRA）.md",
     "SortContents.md",
-    "0 模型/微分方程模型/传染病模型.md",
     "0 模型/微分方程模型/常微分方程问题的数学模型.md",
     "0 模型/国赛须知.md",
     "0 模型/优化规划模型.md",
@@ -250,7 +252,6 @@
     "1 数学基础/协方差矩阵.md",
     "0 模型/偏最小二乘回归分析（PLS）.md",
     "0 模型/概率论模型.md",
-    "3 Python/Matplotlib库.md",
     "3 Python/Scipy库.md",
     "1 数学基础/数学期望.md",
     "0 模型/模拟退火算法.md",
@@ -259,8 +260,6 @@
     "0 模型/灰色预测模型.md",
     "赛前预备.md",
     "0 模型/马尔可夫预测.md",
-    "0 模型/聚类分析/K-MEANS算法.md",
-    "2 Matlab/一些函数.md",
     "0 模型/聚类分析",
     "Python/Picture Asset/example7.png",
     "1 数学基础",

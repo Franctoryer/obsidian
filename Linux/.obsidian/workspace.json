@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78929f57785fb84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常用命令.md",
+                "file": "操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常用命令.md",
+                "file": "操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常用命令.md"
+                "file": "操作系统.md"
               }
             }
           },
@@ -198,11 +211,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f234151db399a6c",
+  "active": "78929f57785fb84e",
   "lastOpenFiles": [
+    "git 常用命令.md",
+    "常用命令.md",
     "操作系统.md",
     "Linux 目录结构.md",
-    "常用命令.md",
     "英语/好词好句.md",
     "当代英语小说阅读/The Swimmier.md",
     "英语/六级单词.md",
@@ -226,7 +240,6 @@
     "当代英语小说阅读/02_Love is a fallacy.md",
     "package-lock.json",
     "计算思维与智能素养/Tableau的使用.md",
-    "数据结构/正则表达式.md",
     "Untitled.canvas",
     "Untitled",
     "n",

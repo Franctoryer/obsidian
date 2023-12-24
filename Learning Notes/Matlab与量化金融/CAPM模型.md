@@ -22,7 +22,10 @@ $$E(R_p)=R_f+\left(\frac{E(R_m)-R_f}{\sigma_m}\right)\times \sigma_p$$
 用中文可以表示为：
 $$预期收益=无风险资产收益+单位风险补偿\times 风险数$$
 
+
+
 # 3 Capital Asset Pricing Model(资本资产定价模型)
 CAPM 模型如下：$$E(R_i)=R_f+\beta_i\left[E(R_m)-R_f\right]$$
 
 其中：$$\beta_i=\frac{Cov(R_i,R_m)}{\sigma_m^2}=\frac{\rho_{i,m}\cdot \sigma_i}{\sigma_m}$$
+$\beta_i$ 是夏普比率，用来表示单位风险所获得的超额收益

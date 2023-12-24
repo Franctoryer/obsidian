@@ -2,7 +2,7 @@
 only current value of a variable is relevant for predicting future.
 - In Markov processes changes in successive periods of time are independent
 - This means that variances are additive
-- ==Standard deviations== are not additive
+- Standard deviations are not additive
 # 2 Weak-Form Market Efficiency
 - 弱形式的市场效率遵从马尔可夫进程
 - 假设股票价格的变化遵循马尔可夫过程
